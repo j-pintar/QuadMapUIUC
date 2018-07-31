@@ -7,4 +7,4 @@ dgh is south of abc.
 lkj is south of dgh.
 
 Instead of jumping:
-	say "You have visited [number of visited rooms] out of [number of rooms] rooms in [turn count] [if turn count < 2]turn.[else]turns. "
+	say "You have visited [number of visited rooms] out of [number of rooms] rooms in [turn count] [if turn count < 2]turn.[else]turns."
